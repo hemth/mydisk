@@ -1,3 +1,3 @@
 # mydisk
 my sample
-/home/nani/mano-m-m-computer-system-architecture.pdf
+/home/nani/Pictures/Webcam/2022-05-09-210514.jpg
